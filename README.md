@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhruvi%20Savaliya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;AI%2FML+Explorer+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Problam Solver+%F0%9F%94%90;Python Devloper+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <!-- Badges -->
 <p>
@@ -17,7 +17,7 @@
 
 <!-- ================= HEADER ================= -->
 <h1 align="center">Hey 👋 I'm Dhruvi Savaliya</h1>
-<h3 align="center">Computer Engineering Student | Backend & System-Oriented Developer</h3>
+<h3 align="center">Computer Engineering Student | Backend  Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhruvi43306&label=Profile%20Views&color=blueviolet&style=flat" />
@@ -34,7 +34,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-- 🎓 Computer Engineering student with a strong backend focus  
+- 🎓 Computer Engineering student with a strong backend focus and I am a Fourth Semester Student! 
 - 🧠 Thinks in **flows, data, and architecture**  
 - 🏗️ Passionate about designing **scalable, maintainable systems**  
 - 🔐 Interested in **security, performance, and clean code principles**  
